@@ -4,31 +4,30 @@ O Guardião é um site institucional para uma empresa fictícia de segurança. O
 
 Estrutura do Projeto
 1. Header
-
-Navegação principal com links para as páginas Home, Sobre, Serviços, Guardas, e Contato.
+2. Navegação principal com links para as páginas Home, Sobre, Serviços, Guardas, e Contato.
 Ícones para abrir/fechar o menu em dispositivos móveis.
-2. Seção Banner
-Apresenta um slogan e uma breve descrição dos serviços, com botões para mais informações.
-3. Seção Sobre
-Contém uma introdução sobre a empresa, descrevendo seus serviços de armazenamento e segurança.
-4. Seção Serviços
+3. Seção Banner
+4. Apresenta um slogan e uma breve descrição dos serviços, com botões para mais informações.
+5. Seção Sobre
+6. Contém uma introdução sobre a empresa, descrevendo seus serviços de armazenamento e segurança.
+7. Seção Serviços
 Lista os principais serviços oferecidos pela empresa:
 Segurança Residencial
 Segurança de Escritório
 Serviço de Escolta
-5. Seção Depoimentos
+8. Seção Depoimentos
 Depoimentos de clientes satisfeitos, com fotos e comentários sobre os serviços da empresa.
-6. Seção Contato
+9. Seção Contato
 Um formulário de contato com campos para Nome, E-mail, Assunto, e uma mensagem.
-7. Seção Guardas
+10. Seção Guardas
 Uma galeria de fotos mostrando os profissionais de segurança da empresa, com um botão para visualizar mais informações.
-8. Footer
+11. Footer
 Links para as redes sociais do desenvolvedor, Salvador Camiege:
 Facebook
 Instagram
 GitHub
 LinkedIn
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 HTML5: Estrutura básica do site.
 CSS3: Estilos, layout responsivo, e animações.
 Font Awesome: Ícones utilizados no menu e nas redes sociais.
