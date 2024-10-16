@@ -4,6 +4,7 @@ O Guardião é um site institucional para uma empresa fictícia de segurança. O
 
 Estrutura do Projeto
 1. Header
+
 Navegação principal com links para as páginas Home, Sobre, Serviços, Guardas, e Contato.
 Ícones para abrir/fechar o menu em dispositivos móveis.
 2. Seção Banner
